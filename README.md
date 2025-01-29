@@ -1,1 +1,2 @@
 # amateurcodes
+As an aspiring Data Engineer, I’m learning how to design and build data pipelines and systems to process and organize large datasets. I’m gaining hands-on experience with essential tools and technologies like SQL, Python, and cloud platforms, with a focus on transforming raw data into valuable insights. I’m dedicated to continuously improving my skills and exploring new ways to manage and optimize data workflows
